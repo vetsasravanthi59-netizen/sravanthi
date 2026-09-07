@@ -1,0 +1,6 @@
+{
+  "name": "SLS",
+  "description": "A low-cost, time-efficient land registration and ownership transfer system that eliminates repeated visits to surveyors, MROs, and VROs through transparent digital verification, AI document discrepancy validation, and audio-visual guided application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
